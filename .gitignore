@@ -1,0 +1,23 @@
+# CMake build output
+build/
+cmake-build-*/
+CMakeUserPresets.json
+
+# Generated files
+compile_commands.json
+
+# IDE files
+.cache/
+.vs/
+.idea/
+*.sln.iml
+*.suo
+*.user
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
